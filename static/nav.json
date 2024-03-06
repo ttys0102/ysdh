@@ -11,27 +11,27 @@
 		"name": "爱奇艺",
 		"href": "https://www.iqiyi.com/",
 		"desc": "节目挺好，会员和广告太恶心",
-		"logo": "static/icons/dayanzai.me.ico"
+		"logo": "static/icons/爱奇艺.ico"
 	}, {
 		"name": "优酷视频",
 		"href": "http://www.dayanzai.me/",
 		"desc": "多年前用过，越来越差了",
-		"logo": "static/icons/dayanzai.me.ico"
+		"logo": "static/icons/优酷视频.ico"
 	}, {
 		"name": "芒果TV",
 		"href": "https://www.mgtv.com/",
 		"desc": "湖南卫视的节目都在这儿了",
-		"logo": "static/icons/dayanzai.me.ico"
+		"logo": "static/icons/芒果TV.ico"
 	}, {
 		"name": "搜狐视频",
 		"href": "https://tv.sohu.com/",
 		"desc": "以前买了不少美剧版权",
-		"logo": "static/icons/mpyit.com.ico"
+		"logo": "static/icons/搜狐视频.ico"
 	}, {
 		"name": "乐视网",
 		"href": "https://www.le.com/",
 		"desc": "以前买了不少美剧版权",
-		"logo": "static/icons/appcgn.com.ico"
+		"logo": "static/icons/乐视.ico"
 	}]
 }, {
 	"_id": "yunpan",
