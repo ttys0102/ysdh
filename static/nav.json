@@ -34,69 +34,64 @@
 		"logo": "static/icons/乐视.ico"
 	}]
 }, {
-	"_id": "yunpan",
-	"classify": "云盘储存",
-	"icon": "ti-cloud",
+	"_id": "xiaoshipin",
+	"classify": "短中视频",
+	"icon": "",
 	"sites": [{
-		"name": "文叔叔",
-		"href": "https://www.wenshushu.cn/",
-		"desc": "大文件即时传输，新晋优秀网盘",
+		"name": "抖音短视频",
+		"href": "https://www.douyin.com/",
+		"desc": "少刷点吧，越刷越傻",
 		"logo": "static/icons/wenshushu.cn.ico"
 	},  {
-		"name": "微云",
-		"href": "https://www.weiyun.com/",
-		"desc": "腾讯QQ网盘服务",
+		"name": "TikTok",
+		"href": "https://www.tiktok.com/",
+		"desc": "国际版抖音，懂得都懂",
 		"logo": "static/icons/weiyun.com.ico"
 	}, {
-		"name": "坚果云",
-		"href": "https://www.jianguoyun.com/",
-		"desc": "小众服务稳定的网盘，支持webdav",
+		"name": "快手短视频",
+		"href": "https://www.kuaishou.com/new-reco",
+		"desc": "土俗视频，玩的可花了",
 		"logo": "static/icons/jianguoyun.com.ico"
 	}, {
-		"name": "奶牛快传",
-		"href": "https://cowtransfer.com/",
-		"desc": "小众服务稳定的网盘",
+		"name": "好看视频",
+		"href": "https://haokan.baidu.com/",
+		"desc": "百度旗下短视频平台",
 		"logo": "static/icons/cowtransfer.com.png"
 	}, {
-		"name": "OneDrive",
-		"href": "http://onedrive.com/",
-		"desc": "微软云存储，支持在线Offiec编辑",
+		"name": "Instagram",
+		"href": "https://www.instagram.com/",
+		"desc": "海外拜金平台",
 		"logo": "static/icons/onedrive.live.com.ico"
 	}, {
-		"name": "DropBox",
-		"href": "https://www.dropbox.com/",
-		"desc": "全球最优秀的在线云存储",
+		"name": "YouTube",
+		"href": "https://www.youtube.com/",
+		"desc": "全球最大视频分享网站",
 		"logo": "static/icons/dropbox.com.png"
 	}, {
-		"name": "GoogleDrive",
-		"href": "https://www.google.com/intl/zh-CN/drive/",
-		"desc": "Google在线云存储服务",
+		"name": "哔哩哔哩",
+		"href": "https://www.bilibili.com/",
+		"desc": "二次元弹幕视频网站",
 		"logo": "static/icons/drive.google.com.png"
 	}, {
-		"name": "iCloud",
-		"href": "https://www.icloud.com/",
-		"desc": "苹果在线存储和云服务",
+		"name": "西瓜视频",
+		"href": "https://www.ixigua.com/",
+		"desc": "字节跳动旗下中长视频平台",
 		"logo": "static/icons/icloud.com.png"
 	}, {
-		"name": "Firefox Send",
-		"href": "https://send.firefox.com/",
-		"desc": "火狐提供的快传网盘",
+		"name": "小红书",
+		"href": "https://www.xiaohongshu.com/explore",
+		"desc": "标记你的生活",
 		"logo": "static/icons/firefox.com.svg"
 	},{
-		"name": "天翼云盘",
-		"href": "https://cloud.189.cn/",
-		"desc": "电信出品的优秀网盘",
+		"name": "随刻",
+		"href": "https://www.suike.cn/",
+		"desc": "爱奇艺旗下短视频平台",
 		"logo": "static/icons/189.cn.ico"
 	},{
-		"name": "曲奇办公",
-		"href": "https://quqi.com/",
-		"desc": "主打办公群组类网盘",
+		"name": "梨视频",
+		"href": "https://www.pearvideo.com/",
+		"desc": "新闻类短视频平台",
 		"logo": "static/icons/quqi.com.ico"
-	},{
-		"name": "城通网盘",
-		"href": "https://www.ctfile.com/",
-		"desc": "页面不算太难看的网赚网盘,度盘替代品之一",
-		"logo": "static/icons/ctfile.com.png"
 	}]
 },  { 
 	"_id": "daohang",
