@@ -184,34 +184,24 @@
 		"logo": "no-logo"
 	}]
 }, {
-	"_id": "wangpan",
-	"classify": "资源搜索",
-	"icon": "ti-search",
+	"_id": "dianshi",
+	"classify": "电视直播",
+	"icon": "",
 	"sites": [{
-		"name": "LOOKAO",
-		"href": "https://lookao.com/",
-		"desc": "简单的 不追踪不记录搜索引擎",
+		"name": "央视直播",
+		"href": "https://tv.cctv.com/live/",
+		"desc": "央视直播大全_CCTV节目官网",
 		"logo": "https://www.dashengpan.com/favicon.ico"
 	},{
-		"name": "大力盘",
-		"href": "https://www.dalipan.com/",
-		"desc": "度盘搜索，支持精准匹配或模糊匹配，有筛选功能",
+		"name": "好趣网",
+		"href": "http://tv.haoqu99.com/",
+		"desc": "电视直播综合网站",
 		"logo": "https://www.dalipan.com/favicon.ico"
 	},{
-		"name": "史莱姆",
-		"href": "http://www.slimego.cn",
-		"desc": "度盘搜索，更新较快，有学习资料专项",
+		"name": "7080直播",
+		"href": "https://7080.wang/live/",
+		"desc": "浙江广电旗下电视直播平台",
 		"logo": "static/icons/slimego.cn.ico"
-	},{
-		"name": "TheFuture",
-		"href": "https://bks.thefuture.top/",
-		"desc": "书籍搜索，提供网盘下载",
-		"logo": "https://bks.thefuture.top/bk.png"
-	},{
-		"name": "虫部落网盘搜索",
-		"href": "http://magnet.chongbuluo.com/",
-		"desc": "专注搜索[技术]的虫部落开放的聚合网盘搜索",
-		"logo": "https://search.chongbuluo.com/favicon.ico"
 	}]
 }, {
 	"_id": "quwei",
