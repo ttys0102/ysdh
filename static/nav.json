@@ -41,57 +41,57 @@
 		"name": "抖音短视频",
 		"href": "https://www.douyin.com/",
 		"desc": "少刷点吧，越刷越傻",
-		"logo": "static/icons/wenshushu.cn.ico"
+		"logo": "static/icons/抖音.icon.ico"
 	},  {
 		"name": "TikTok",
 		"href": "https://www.tiktok.com/",
 		"desc": "国际版抖音，懂得都懂",
-		"logo": "static/icons/weiyun.com.ico"
+		"logo": "static/icons/tiktok.icon.ico"
 	}, {
 		"name": "快手短视频",
 		"href": "https://www.kuaishou.com/new-reco",
 		"desc": "土俗视频，玩的可花了",
-		"logo": "static/icons/jianguoyun.com.ico"
+		"logo": "static/icons/快手.icon.ico"
 	}, {
 		"name": "好看视频",
 		"href": "https://haokan.baidu.com/",
 		"desc": "百度旗下短视频平台",
-		"logo": "static/icons/cowtransfer.com.png"
+		"logo": "static/icons/好看视频.icon.ico"
 	}, {
 		"name": "Instagram",
 		"href": "https://www.instagram.com/",
 		"desc": "海外拜金平台",
-		"logo": "static/icons/onedrive.live.com.ico"
+		"logo": "static/icons/Instagram.icon.ico"
 	}, {
 		"name": "YouTube",
 		"href": "https://www.youtube.com/",
 		"desc": "全球最大视频分享网站",
-		"logo": "static/icons/dropbox.com.png"
+		"logo": "static/icons/YouTube.icon.ico"
 	}, {
 		"name": "哔哩哔哩",
 		"href": "https://www.bilibili.com/",
 		"desc": "二次元弹幕视频网站",
-		"logo": "static/icons/drive.google.com.png"
+		"logo": "static/icons/哔哩哔哩.icon.ico"
 	}, {
 		"name": "西瓜视频",
 		"href": "https://www.ixigua.com/",
 		"desc": "字节跳动旗下中长视频平台",
-		"logo": "static/icons/icloud.com.png"
+		"logo": "static/icons/西瓜视频.ico"
 	}, {
 		"name": "小红书",
 		"href": "https://www.xiaohongshu.com/explore",
 		"desc": "标记你的生活",
-		"logo": "static/icons/firefox.com.svg"
+		"logo": "static/icons/小红书.icon.ico"
 	},{
 		"name": "随刻",
 		"href": "https://www.suike.cn/",
 		"desc": "爱奇艺旗下短视频平台",
-		"logo": "static/icons/189.cn.ico"
+		"logo": "static/icons/随刻.icon.ico"
 	},{
 		"name": "梨视频",
 		"href": "https://www.pearvideo.com/",
 		"desc": "新闻类短视频平台",
-		"logo": "static/icons/quqi.com.ico"
+		"logo": "static/icons/梨视频.icon.ico"
 	}]
 },  { 
 	"_id": "daohang",
