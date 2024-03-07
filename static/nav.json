@@ -94,53 +94,93 @@
 		"logo": "static/icons/梨视频.icon.ico"
 	}]
 },  { 
-	"_id": "daohang",
-	"classify": "分类导航",
-	"icon": "ti-bookmark-alt",
+	"_id": "直播",
+	"classify": "直播平台",
+	"icon": "",
 	"sites": [{
-		"name": "今日热榜",
-		"href": "https://tophub.today/",
-		"desc": "主流新闻站热点当日集合",
+		"name": "抖音直播",
+		"href": "https://live.douyin.com/",
+		"desc": "国内流量最大的直播平台",
 		"logo": "static/icons/tophub.today.png"
 	},{
-		"name": "优设导航",
-		"href": "https://hao.uisdc.com/",
-		"desc": "一个优秀的设计师导航站",
+		"name": "快手直播",
+		"href": "https://live.kuaishou.com/",
+		"desc": "国内仅次于抖音直播的直播平台",
 		"logo": "https://hao.uisdc.com/favicon.ico"
 	},{
-		"name": "堕落了",
-		"href": "https://www.duoluole.com/",
-		"desc": "年轻态友好向网址导航",
+		"name": "花椒直播",
+		"href": "https://www.huajiao.com/",
+		"desc": "好多小姐姐擦边的娱乐直播平台",
 		"logo": "static/icons/duoluole.com.png"
 	},{
-		"name": "炫猿导航",
-		"href": "https://oo1.win/",
-		"desc": "一个炫酷的多功能导航站，收录品类丰富",
+		"name": "六间房直播",
+		"href": "https://v.6.cn/",
+		"desc": "高质量秀场直播平台",
 		"logo": "static/icons/oo1.win.ico"
 	},{
-		"name": "kim导航",
-		"href": "https://kim.plopco.com/",
-		"desc": "不罗嗦的导航，可切换国内外版本",
+		"name": "虎牙直播",
+		"href": "https://www.huya.com/",
+		"desc": "老牌电竞直播平台",
 		"logo": "static/icons/plopco.com.ico"
 	},{
-		"name": "龙轩导航",
-		"href": "http://ilxdh.com/",
-		"desc": "疯狂影视同属产品，支持登录添加自定义网址",
+		"name": "YY直播",
+		"href": "https://www.yy.com/index",
+		"desc": "老牌综合直播平台",
 		"logo": "static/icons/ilxdh.com.ico"
 	},{
-		"name": "设计导航",
-		"href": "http://hao.shejidaren.com/",
-		"desc": "偏向前端与ui的设计师导航站",
+		"name": "映客直播",
+		"href": "https://www.inke.cn/",
+		"desc": "老牌综合直播平台",
 		"logo": "static/icons/shejidaren.com.ico"
 	},{
-		"name": "考拉新媒体导航",
-		"href": "https://www.kaolamedia.com/",
-		"desc": "新媒体行业专业导航",
+		"name": "迅雷直播",
+		"href": "https://live.xunlei.com/",
+		"desc": "小姐姐秀场直播平台",
 		"logo": "static/icons/kaolamedia.com.ico"
 	},{
-		"name": "医学导航",
-		"href": "http://meddir.cn/",
-		"desc": "医学类网站导航",
+		"name": "酷狗直播",
+		"href": "https://fanxing.kugou.com/",
+		"desc": "新晋音乐直播平台",
+		"logo": "no-logo"
+	},{
+		"name": "网易CC直播",
+		"href": "https://cc.163.com/",
+		"desc": "网易旗下电竞直播平台",
+		"logo": "no-logo"
+	},{
+		"name": "酷我聚星",
+		"href": "https://jx.kuwo.cn/",
+		"desc": "新晋音乐直播平台",
+		"logo": "no-logo"
+	},{
+		"name": "来疯直播",
+		"href": "https://www.laifeng.com/",
+		"desc": "不知名的秀场直播平台",
+		"logo": "no-logo"
+	},{
+		"name": "Afreecatv",
+		"href": "https://www.afreecatv.com/",
+		"desc": "韩国最大的直播平台",
+		"logo": "no-logo"
+	},{
+		"name": "哔哩哔哩直播",
+		"href": "https://live.bilibili.com/",
+		"desc": "二次元弹幕直播平台",
+		"logo": "no-logo"
+	},{
+		"name": "斗鱼直播",
+		"href": "https://www.douyu.com/",
+		"desc": "每个人的直播平台",
+		"logo": "no-logo"
+	},{
+		"name": "YouNow直播",
+		"href": "https://www.younow.com/",
+		"desc": "香港直播平台",
+		"logo": "no-logo"
+	},{
+		"name": "Twitch",
+		"href": "https://www.twitch.tv/",
+		"desc": "全球知名综合直播平台",
 		"logo": "no-logo"
 	}]
 }, {
