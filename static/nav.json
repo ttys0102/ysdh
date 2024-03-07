@@ -204,38 +204,58 @@
 		"logo": "static/icons/slimego.cn.ico"
 	}]
 }, {
-	"_id": "quwei",
-	"classify": "趣味网站",
-	"icon": "ti-package",
+	"_id": "sousuo",
+	"classify": "影视搜索",
+	"icon": "",
 	"sites": [{
-		"name": "能不能好好说话",
-		"href": "https://lab.magiconch.com/nbnhhsh/",
-		"desc": "分分钟混入00后圈子，rnb（really 牛B）",
+		"name": "茶杯狐",
+		"href": "https://cupfox.love/,
+		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/magiconch.com.ico"
 	}, {
-		"name": "煎蛋",
-		"href": "http://jandan.net/",
-		"desc": "世界上没有新鲜事，除了表情包",
+		"name": "茶杯虎",
+		"href": "https://www.725998.com/",
+		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/jandan.net.ico"
 	},{
-		"name": "soogif搜索",
-		"href": "http://soogif.com/",
-		"desc": "Gif动图中文搜索平台",
+		"name": "7080影视搜",
+		"href": "https://7080.wang/",
+		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/soogif.com.ico"
 	}, {
-		"name": "小鸡词典",
-		"href": "https://jikipedia.com/",
-		"desc": "全球在线动态GIF图片搜索引擎",
+		"name": "看个蛋",
+		"href": "https://www.kangedan.com/",
+		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/jikipedia.com.png"
 	}, {
-		"name": "肌肉百科",
-		"href": "https://musclewiki.org/",
-		"desc": "选中哪块肌肉就展示对应锻炼方法",
+		"name": "追影猫",
+		"href": "https://zhuiyingmao3.com/",
+		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/musclewiki.org.ico"
 	}, {
-		"name": "imgur",
-		"href": "http://imgur.com/",
-		"desc": "全球免费的图片分享和图床网站",
+		"name": "电影淘淘",
+		"href": "https://www.dytt360.com/",
+		"desc": "综合性影视搜索聚合网站",
+		"logo": "static/icons/imgur.com.png"
+	}, {
+		"name": "悟空视频",
+		"href": "https://wukongshipin.com/",
+		"desc": "综合性影视搜索聚合网站",
+		"logo": "static/icons/imgur.com.png"
+	}, {
+		"name": "聚合影视",
+		"href": "https://www.juheyingshi.com/",
+		"desc": "综合性影视搜索聚合网站",
+		"logo": "static/icons/imgur.com.png"
+	}, {
+		"name": "MXONE",
+		"href": "https://www.xmxone.cn/",
+		"desc": "综合性影视搜索聚合网站",
+		"logo": "static/icons/imgur.com.png"
+	}, {
+		"name": "影搜",
+		"href": "https://xn--p3tv7h.com/",
+		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/imgur.com.png"
 	}]
 },{
