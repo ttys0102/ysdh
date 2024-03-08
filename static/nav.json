@@ -82,12 +82,12 @@
 		"href": "https://www.xiaohongshu.com/explore",
 		"desc": "标记你的生活",
 		"logo": "static/icons/小红书.icon.ico"
-	},{
+	}, {
 		"name": "随刻",
 		"href": "https://www.suike.cn/",
 		"desc": "爱奇艺旗下短视频平台",
 		"logo": "static/icons/随刻.icon.ico"
-	},{
+	}, {
 		"name": "梨视频",
 		"href": "https://www.pearvideo.com/",
 		"desc": "新闻类短视频平台",
@@ -102,82 +102,82 @@
 		"href": "https://live.douyin.com/",
 		"desc": "国内流量最大的直播平台",
 		"logo": "static/icons/tophub.today.png"
-	},{
+	}, {
 		"name": "快手直播",
 		"href": "https://live.kuaishou.com/",
 		"desc": "国内仅次于抖音直播的直播平台",
 		"logo": "https://hao.uisdc.com/favicon.ico"
-	},{
+	}, {
 		"name": "花椒直播",
 		"href": "https://www.huajiao.com/",
 		"desc": "好多小姐姐擦边的娱乐直播平台",
 		"logo": "static/icons/duoluole.com.png"
-	},{
+	}, {
 		"name": "六间房直播",
 		"href": "https://v.6.cn/",
 		"desc": "高质量秀场直播平台",
 		"logo": "static/icons/oo1.win.ico"
-	},{
+	}, {
 		"name": "虎牙直播",
 		"href": "https://www.huya.com/",
 		"desc": "老牌电竞直播平台",
 		"logo": "static/icons/plopco.com.ico"
-	},{
+	}, {
 		"name": "YY直播",
 		"href": "https://www.yy.com/index",
 		"desc": "老牌综合直播平台",
 		"logo": "static/icons/ilxdh.com.ico"
-	},{
+	}, {
 		"name": "映客直播",
 		"href": "https://www.inke.cn/",
 		"desc": "老牌综合直播平台",
 		"logo": "static/icons/shejidaren.com.ico"
-	},{
+	}, {
 		"name": "迅雷直播",
 		"href": "https://live.xunlei.com/",
 		"desc": "小姐姐秀场直播平台",
 		"logo": "static/icons/kaolamedia.com.ico"
-	},{
+	}, {
 		"name": "酷狗直播",
 		"href": "https://fanxing.kugou.com/",
 		"desc": "新晋音乐直播平台",
 		"logo": "no-logo"
-	},{
+	}, {
 		"name": "网易CC直播",
 		"href": "https://cc.163.com/",
 		"desc": "网易旗下电竞直播平台",
 		"logo": "no-logo"
-	},{
+	}, {
 		"name": "酷我聚星",
 		"href": "https://jx.kuwo.cn/",
 		"desc": "新晋音乐直播平台",
 		"logo": "no-logo"
-	},{
+	}, {
 		"name": "来疯直播",
 		"href": "https://www.laifeng.com/",
 		"desc": "不知名的秀场直播平台",
 		"logo": "no-logo"
-	},{
+	}, {
 		"name": "Afreecatv",
 		"href": "https://www.afreecatv.com/",
 		"desc": "韩国最大的直播平台",
 		"logo": "no-logo"
-	},{
+	}, {
 		"name": "哔哩哔哩直播",
 		"href": "https://live.bilibili.com/",
 		"desc": "二次元弹幕直播平台",
 		"logo": "no-logo"
-	},{
+	}, {
 		"name": "斗鱼直播",
 		"href": "https://www.douyu.com/",
 		"desc": "每个人的直播平台",
 		"logo": "no-logo"
-	},{
+	}, {
 		"name": "YouNow直播",
 		"href": "https://www.younow.com/",
 		"desc": "香港直播平台",
 		"logo": "no-logo"
-	},{
+	}, {
 		"name": "Twitch",
 		"href": "https://www.twitch.tv/",
 		"desc": "全球知名综合直播平台",
@@ -192,12 +192,12 @@
 		"href": "https://tv.cctv.com/live/",
 		"desc": "央视直播大全_CCTV节目官网",
 		"logo": "https://www.dashengpan.com/favicon.ico"
-	},{
+	}, {
 		"name": "好趣网",
 		"href": "http://tv.haoqu99.com/",
 		"desc": "电视直播综合网站",
 		"logo": "https://www.dalipan.com/favicon.ico"
-	},{
+	}, {
 		"name": "7080直播",
 		"href": "https://7080.wang/live/",
 		"desc": "浙江广电旗下电视直播平台",
@@ -212,53 +212,53 @@
 		"href": "https://cupfox.love/,
 		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/magiconch.com.ico"
-	},{
+	}, {
 		"name": "茶杯虎",
 		"href": "https://www.725998.com/",
 		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/jandan.net.ico"
-	},{
+	}, {
 		"name": "7080影视搜",
 		"href": "https://7080.wang/",
 		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/soogif.com.ico"
-	},{
+	}, {
 		"name": "看个蛋",
 		"href": "https://www.kangedan.com/",
 		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/jikipedia.com.png"
-	},{
+	}, {
 		"name": "追影猫",
 		"href": "https://zhuiyingmao3.com/",
 		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/musclewiki.org.ico"
-	},{
+	}, {
 		"name": "电影淘淘",
 		"href": "https://www.dytt360.com/",
 		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/imgur.com.png"
-	},{
+	}, {
 		"name": "悟空视频",
 		"href": "https://wukongshipin.com/",
 		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/imgur.com.png"
-	},{
+	}, {
 		"name": "聚合影视",
 		"href": "https://www.juheyingshi.com/",
 		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/imgur.com.png"
-	},{
+	}, {
 		"name": "MXONE",
 		"href": "https://www.xmxone.cn/",
 		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/imgur.com.png"
-	},{
+	}, {
 		"name": "影搜",
 		"href": "https://xn--p3tv7h.com/",
 		"desc": "综合性影视搜索聚合网站",
 		"logo": "static/icons/imgur.com.png"
 	}]
-},{
+}, {
 	"_id": "wangluo",
 	"classify": "网络工具",
 	"icon": "ti-rocket",
